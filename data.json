@@ -1,0 +1,14 @@
+{
+  "version": "3.0",
+  "generated_at": "2026-03-23T17:57:07.638Z",
+  "users": [
+    {
+      "username": "admin",
+      "password_hash": "ac9689e2272427085e35b9d3e3e8bed88cb3434828b43b86fc0596cad4c6e270",
+      "role": "admin",
+      "display": "Administrador"
+    }
+  ],
+  "patches": {},
+  "inventories_structure": null
+}
